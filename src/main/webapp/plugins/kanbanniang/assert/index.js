@@ -79,7 +79,7 @@ var soloKanbanniang = {
   _initTips: function() {
     $.ajax({
       cache: true,
-      url: 'https://static-solo.b3log.org/plugins/kanbanniang/assert/tips.json',
+      url: 'https://blog.moonce.com/plugins/kanbanniang/assert/tips.json',
       dataType: 'json',
       success: function(result) {
         $.each(result.mouseover, function(index, tips) {
@@ -125,7 +125,8 @@ var soloKanbanniang = {
     });
 
     $('#soloKanbanniangChat').click(function() {
-      soloKanbanniang.showChat();
+      // soloKanbanniang.showChat();
+        window.location = 'http://wpa.qq.com/msgrd?v=3&uin=484747410&site=qq&menu=yes ';
     });
 
     $('#soloKanbanniangChange').click(function() {

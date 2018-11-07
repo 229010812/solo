@@ -1,12 +1,12 @@
 {
-  "name": "Solo - 博客",
-  "short_name": "Solo",
+  "name": "望舒阁 - 宠辱不惊，看庭前花开花落,去留无意，望天上云卷云舒。",
+  "short_name": "望舒阁",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f1f2f7",
   "orientation": "portrait",
   "theme_color": "#1fb5ad",
-  "description": "一个用 Java 实现的博客系统，为你或你的团队创建个博客吧！",
+  "description": "宠辱不惊，看庭前花开花落,去留无意，望天上云卷云舒。",
   "icons": [
     {
       "src": "images/logo/logo@48.png",

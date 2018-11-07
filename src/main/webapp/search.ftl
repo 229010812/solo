@@ -108,7 +108,9 @@ No Result, Return to <a href="${servePath}">Index</a>.<#--or <a href="https://ha
 
 <div class="footerWrapper">
     <div class="footer">
-        Powered by <a href="https://b3log.org" target="_blank">B3log 开源</a> • Solo ${version}
+        <a href="https://blog.moonce.com">望舒阁</a> &nbsp;&nbsp;&nbsp;&nbsp;  •  &nbsp;&nbsp;&nbsp;&nbsp;
+        © 2018
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank">苏ICP备17002072号</a>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
 </div>
 </body>
